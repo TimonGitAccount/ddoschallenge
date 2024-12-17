@@ -1,0 +1,21 @@
+{
+  "name": "ddos-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "ddos-challenge": "file:",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "express-session": "^1.18.1",
+    "http-proxy-middleware": "^3.0.3",
+    "svg-captcha": "^1.4.0"
+  }
+}
