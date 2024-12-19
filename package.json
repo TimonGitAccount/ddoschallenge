@@ -1,9 +1,10 @@
 {
   "name": "ddos-challenge",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "protection.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node protection.js"
   },
   "keywords": [],
   "author": "",
